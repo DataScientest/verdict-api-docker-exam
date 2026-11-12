@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "text": "Chambre impeccable et literie très confortable, nous avons parfaitement dormi.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 2,
+    "text": "Le personnel de la réception a été adorable du début à la fin du séjour.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 3,
+    "text": "Petit-déjeuner copieux et varié, un vrai régal chaque matin.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 4,
+    "text": "Vue magnifique depuis le balcon, nous reviendrons sans hésiter.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 5,
+    "text": "Accueil chaleureux, on s'est tout de suite senti attendus.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 6,
+    "text": "Un séjour parfait, je recommande cet hôtel à tous mes proches.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 7,
+    "text": "La piscine était propre et le spa vraiment relaxant, quel bonheur.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 8,
+    "text": "Excellent rapport qualité-prix, bien au-delà de nos attentes.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 9,
+    "text": "Le concierge nous a donné des conseils précieux, merci infiniment.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 10,
+    "text": "Calme absolu la nuit, une parenthèse reposante très appréciée.",
+    "label": "positif",
+    "domain": "hotel"
+  },
+  {
+    "id": 11,
+    "text": "Chambre sale, cheveux dans la douche et draps tachés, inadmissible.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 12,
+    "text": "Le personnel de la réception était désagréable et méprisant.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 13,
+    "text": "Bruit insupportable toute la nuit, impossible de fermer l'œil.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 14,
+    "text": "Climatisation en panne pendant trois jours malgré nos plaintes.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 15,
+    "text": "Hôtel très décevant, rien ne correspond aux photos du site.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 16,
+    "text": "Petit-déjeuner pauvre et froid, une honte à ce prix.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 17,
+    "text": "On nous a facturé des frais cachés au moment du départ, scandaleux.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 18,
+    "text": "Moisissures dans la salle de bain, je déconseille fortement.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 19,
+    "text": "Réservation perdue à notre arrivée et aucune solution proposée.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 20,
+    "text": "Le pire séjour de ma vie, à fuir absolument.",
+    "label": "negatif",
+    "domain": "hotel"
+  },
+  {
+    "id": 21,
+    "text": "L'hôtel se trouve à dix minutes à pied de la gare centrale.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 22,
+    "text": "La chambre est située au troisième étage, avec ascenseur.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 23,
+    "text": "Le petit-déjeuner est servi de 7 heures à 10 heures.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 24,
+    "text": "Nous avons réservé une chambre double pour deux nuits en mai.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 25,
+    "text": "Le parking de l'hôtel est payant et compte une vingtaine de places.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 26,
+    "text": "L'arrivée se fait à partir de 15 heures et le départ avant 11 heures.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 27,
+    "text": "L'établissement dispose d'une piscine extérieure et d'une salle de sport.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 28,
+    "text": "La chambre comporte un lit double, un bureau et une salle d'eau.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 29,
+    "text": "Le wifi est inclus dans le prix de la nuitée.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 30,
+    "text": "L'hôtel compte quarante chambres réparties sur quatre étages.",
+    "label": "neutre",
+    "domain": "hotel"
+  },
+  {
+    "id": 31,
+    "text": "Des plats savoureux et généreux, le chef a un vrai talent.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 32,
+    "text": "Service attentionné et souriant, une soirée délicieuse.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 33,
+    "text": "Le dessert était divin, je m'en souviendrai longtemps.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 34,
+    "text": "Produits frais et cuisine inventive, une très belle découverte.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 35,
+    "text": "Cadre charmant et ambiance agréable, nous avons passé un super moment.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 36,
+    "text": "La meilleure pizza que j'ai mangée depuis des années.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 37,
+    "text": "Carte des vins excellente et conseils du sommelier parfaits.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 38,
+    "text": "Tout était délicieux, de l'entrée au café, bravo à l'équipe.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 39,
+    "text": "Accueil adorable avec les enfants, merci pour votre patience.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 40,
+    "text": "Un restaurant qui mérite largement sa réputation, je recommande.",
+    "label": "positif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 41,
+    "text": "Plat froid, viande trop cuite et sauce sans aucun goût.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 42,
+    "text": "Une heure d'attente pour être servis, serveur introuvable.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 43,
+    "text": "Addition exorbitante pour des portions ridicules, arnaque totale.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 44,
+    "text": "J'ai été malade toute la nuit après ce repas, honteux.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 45,
+    "text": "Serveur grossier qui a levé les yeux au ciel à chaque question.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 46,
+    "text": "Table sale et couverts douteux, l'hygiène laisse à désirer.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 47,
+    "text": "On nous a servi le mauvais plat et refusé de le changer.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 48,
+    "text": "Cuisine industrielle réchauffée au micro-ondes, très déçu.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 49,
+    "text": "Musique beaucoup trop forte, impossible de discuter.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 50,
+    "text": "Plus jamais dans ce restaurant, une expérience lamentable.",
+    "label": "negatif",
+    "domain": "restaurant"
+  },
+  {
+    "id": 51,
+    "text": "Le restaurant est fermé le dimanche soir et le lundi.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 52,
+    "text": "Nous étions quatre et avons réservé une table pour 20 heures.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 53,
+    "text": "La carte propose trois entrées, cinq plats et quatre desserts.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 54,
+    "text": "Le menu du midi est servi en semaine uniquement.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 55,
+    "text": "La salle compte environ cinquante couverts et une terrasse.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 56,
+    "text": "Le restaurant se situe au rez-de-chaussée d'un immeuble ancien.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 57,
+    "text": "Les réservations se font par téléphone ou sur le site internet.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 58,
+    "text": "Nous avons commandé deux plats du jour et une carafe d'eau.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 59,
+    "text": "Le paiement par carte est accepté à partir de dix euros.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 60,
+    "text": "La cuisine reste ouverte jusqu'à 22 heures en semaine.",
+    "label": "neutre",
+    "domain": "restaurant"
+  },
+  {
+    "id": 61,
+    "text": "Colis livré en avance et parfaitement emballé, top.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 62,
+    "text": "Le livreur a été très aimable et a pris soin du paquet.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 63,
+    "text": "Suivi précis du début à la fin, livraison sans aucun souci.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 64,
+    "text": "Reçu le lendemain de la commande, une rapidité impressionnante.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 65,
+    "text": "Livraison soignée au pied de ma porte, rien à redire.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 66,
+    "text": "Le transporteur m'a prévenu de son arrivée, très pratique.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 67,
+    "text": "Emballage écologique et solide, j'ai beaucoup apprécié.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 68,
+    "text": "Livraison gratuite et rapide, un service vraiment au top.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 69,
+    "text": "Le livreur a attendu que je descende, quelle gentillesse.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 70,
+    "text": "Tout est arrivé en parfait état, merci pour ce sérieux.",
+    "label": "positif",
+    "domain": "livraison"
+  },
+  {
+    "id": 71,
+    "text": "Colis jamais reçu alors qu'il est indiqué comme livré.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 72,
+    "text": "Carton éventré et produit cassé à l'arrivée, inacceptable.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 73,
+    "text": "Trois semaines de retard sans la moindre explication.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 74,
+    "text": "Le livreur a jeté le paquet par-dessus le portail.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 75,
+    "text": "Avis de passage déposé alors que j'étais bien chez moi.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 76,
+    "text": "Suivi bloqué depuis dix jours, personne ne répond.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 77,
+    "text": "Livraison déposée chez un voisin inconnu, colis introuvable.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 78,
+    "text": "Frais de livraison exorbitants pour un délai catastrophique.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 79,
+    "text": "Le transporteur a perdu ma commande et refuse de rembourser.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 80,
+    "text": "Service de livraison lamentable, je ne commanderai plus.",
+    "label": "negatif",
+    "domain": "livraison"
+  },
+  {
+    "id": 81,
+    "text": "Le colis a été remis au point relais situé près de chez moi.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 82,
+    "text": "La livraison est prévue entre trois et cinq jours ouvrés.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 83,
+    "text": "J'ai choisi la livraison standard lors de la commande.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 84,
+    "text": "Le numéro de suivi a été envoyé par courriel le jour de l'expédition.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 85,
+    "text": "Le transporteur livre du lundi au samedi.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 86,
+    "text": "Le paquet pesait environ deux kilos.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 87,
+    "text": "La commande a été expédiée depuis l'entrepôt de Lyon.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 88,
+    "text": "Une signature est demandée à la remise du colis.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 89,
+    "text": "Le colis contenait deux articles et une facture.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 90,
+    "text": "La livraison a eu lieu mardi en fin d'après-midi.",
+    "label": "neutre",
+    "domain": "livraison"
+  },
+  {
+    "id": 91,
+    "text": "Produit de grande qualité, solide et très bien fini.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 92,
+    "text": "Exactement conforme à la description, je suis ravi.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 93,
+    "text": "Batterie qui tient très longtemps, une excellente surprise.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 94,
+    "text": "Très facile à utiliser, même pour un débutant, bravo.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 95,
+    "text": "Le tissu est doux et la taille parfaite, je recommande.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 96,
+    "text": "Un achat que je ne regrette pas du tout, super produit.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 97,
+    "text": "Silencieux et efficace, il fait parfaitement son travail.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 98,
+    "text": "Design élégant et matériaux haut de gamme, j'adore.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 99,
+    "text": "Rapport qualité-prix imbattable, foncez.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 100,
+    "text": "Mon fils est enchanté de ce cadeau, merci.",
+    "label": "positif",
+    "domain": "produit"
+  },
+  {
+    "id": 101,
+    "text": "Produit tombé en panne au bout de deux jours.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 102,
+    "text": "Rien à voir avec la photo, couleur et matière décevantes.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 103,
+    "text": "Fabrication de mauvaise qualité, tout s'est cassé rapidement.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 104,
+    "text": "Notice incompréhensible et pièce manquante dans la boîte.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 105,
+    "text": "Taille beaucoup trop petite et tissu qui gratte, à éviter.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 106,
+    "text": "Bruit horrible au démarrage, totalement inutilisable.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 107,
+    "text": "La batterie ne tient même pas une heure, une arnaque.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 108,
+    "text": "Odeur chimique très forte à l'ouverture, inquiétant.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 109,
+    "text": "Je regrette vraiment cet achat, argent jeté par la fenêtre.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 110,
+    "text": "Produit défectueux dès la première utilisation, très déçu.",
+    "label": "negatif",
+    "domain": "produit"
+  },
+  {
+    "id": 111,
+    "text": "J'ai commandé ce modèle en taille M et en coloris bleu.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 112,
+    "text": "L'appareil fonctionne sur secteur et sur batterie.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 113,
+    "text": "La boîte contient le produit, un câble et une notice.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 114,
+    "text": "Le produit mesure trente centimètres de haut.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 115,
+    "text": "Il existe en trois coloris différents sur le site.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 116,
+    "text": "L'article est garanti deux ans par le fabricant.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 117,
+    "text": "Le montage nécessite un tournevis cruciforme.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 118,
+    "text": "Le produit pèse un peu moins d'un kilo.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 119,
+    "text": "La notice est disponible en français et en anglais.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 120,
+    "text": "Je l'utilise principalement le week-end.",
+    "label": "neutre",
+    "domain": "produit"
+  },
+  {
+    "id": 121,
+    "text": "Conseillère très patiente qui a résolu mon problème en cinq minutes.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 122,
+    "text": "Réponse rapide et claire à ma réclamation, merci beaucoup.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 123,
+    "text": "Remboursement effectué sans discussion, un service exemplaire.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 124,
+    "text": "Enfin un service client à l'écoute et vraiment efficace.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 125,
+    "text": "Le technicien a été compétent et très pédagogue.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 126,
+    "text": "Échange accepté immédiatement, une expérience très positive.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 127,
+    "text": "Équipe disponible et souriante, je suis conquis.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 128,
+    "text": "Mon dossier a été traité avec beaucoup de professionnalisme.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 129,
+    "text": "On m'a rappelé comme promis, c'est rare et appréciable.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 130,
+    "text": "Un geste commercial généreux après un petit souci, bravo.",
+    "label": "positif",
+    "domain": "service_client"
+  },
+  {
+    "id": 131,
+    "text": "Quarante minutes d'attente au téléphone pour rien.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 132,
+    "text": "Conseiller impoli qui m'a raccroché au nez.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 133,
+    "text": "Aucune réponse à mes cinq courriels, c'est honteux.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 134,
+    "text": "On me renvoie de service en service sans solution.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 135,
+    "text": "Remboursement promis depuis deux mois et toujours rien.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 136,
+    "text": "Le chatbot tourne en boucle, impossible de parler à un humain.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 137,
+    "text": "Ils ont refusé la garantie sous un prétexte ridicule.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 138,
+    "text": "Service client inexistant, je suis furieux.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 139,
+    "text": "On m'a menti sur les délais de traitement de mon dossier.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 140,
+    "text": "Expérience désastreuse, je résilie mon abonnement.",
+    "label": "negatif",
+    "domain": "service_client"
+  },
+  {
+    "id": 141,
+    "text": "J'ai contacté le service client par téléphone jeudi matin.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 142,
+    "text": "Le service client est joignable du lundi au vendredi de 9 h à 18 h.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 143,
+    "text": "Ma demande porte le numéro de dossier 48213.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 144,
+    "text": "J'ai envoyé une photo du produit en pièce jointe.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 145,
+    "text": "Le formulaire de contact se trouve en bas de la page d'accueil.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 146,
+    "text": "On m'a demandé mon numéro de commande et ma date d'achat.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 147,
+    "text": "La procédure de retour se fait en ligne depuis l'espace client.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 148,
+    "text": "J'ai reçu un accusé de réception automatique par courriel.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 149,
+    "text": "Le conseiller m'a transféré vers le service technique.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 150,
+    "text": "Le délai de traitement annoncé est de dix jours ouvrés.",
+    "label": "neutre",
+    "domain": "service_client"
+  },
+  {
+    "id": 151,
+    "text": "Train parfaitement à l'heure et voiture très propre.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 152,
+    "text": "Chauffeur prudent et sympathique, trajet très agréable.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 153,
+    "text": "Sièges confortables et wifi efficace, j'ai pu travailler.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 154,
+    "text": "Le contrôleur a été très arrangeant avec mon billet, merci.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 155,
+    "text": "Vol sans turbulence et équipage aux petits soins.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 156,
+    "text": "Correspondance assurée malgré un léger retard, bien joué.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 157,
+    "text": "Application de réservation simple et rapide, j'adore.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 158,
+    "text": "Le bus était neuf, climatisé et très ponctuel.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 159,
+    "text": "Embarquement fluide et personnel accueillant, parfait.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 160,
+    "text": "Un trajet reposant, je reprendrai cette compagnie.",
+    "label": "positif",
+    "domain": "transport"
+  },
+  {
+    "id": 161,
+    "text": "Train supprimé au dernier moment sans aucune information.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 162,
+    "text": "Deux heures de retard et pas un mot d'excuse.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 163,
+    "text": "Bagage perdu et aucune nouvelle depuis une semaine.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 164,
+    "text": "Chauffeur agressif qui conduisait beaucoup trop vite.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 165,
+    "text": "Toilettes hors service et wagon sale, voyage pénible.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 166,
+    "text": "Vol annulé et aucune solution de relogement proposée.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 167,
+    "text": "Climatisation en panne en plein été, insupportable.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 168,
+    "text": "Surbooking : on m'a refusé l'embarquement malgré mon billet.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 169,
+    "text": "Le bus n'est jamais passé à l'arrêt, j'ai raté mon rendez-vous.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 170,
+    "text": "Compagnie à éviter, une organisation lamentable.",
+    "label": "negatif",
+    "domain": "transport"
+  },
+  {
+    "id": 171,
+    "text": "Le train part de la gare de Lyon à 8 h 12.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 172,
+    "text": "Le trajet dure environ deux heures et demie.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 173,
+    "text": "J'avais réservé une place côté fenêtre en seconde classe.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 174,
+    "text": "Le bus dessert douze arrêts entre le centre et l'aéroport.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 175,
+    "text": "Un bagage cabine est inclus dans le tarif de base.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 176,
+    "text": "L'embarquement ferme vingt minutes avant le départ.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 177,
+    "text": "Le vol fait une escale à Francfort.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 178,
+    "text": "Les billets sont échangeables jusqu'à la veille du départ.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 179,
+    "text": "La ligne fonctionne de 6 heures à minuit en semaine.",
+    "label": "neutre",
+    "domain": "transport"
+  },
+  {
+    "id": 180,
+    "text": "Nous avons voyagé à deux avec une valise chacun.",
+    "label": "neutre",
+    "domain": "transport"
+  }
+]

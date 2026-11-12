@@ -1,0 +1,18 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Cache des modèles : ne jamais le committer
+.cache/
+
+# Secrets et configuration locale : ne jamais les committer
+.env
+secrets/*
+!secrets/README.md
+*.key
+*_api_key.txt
+
+# Divers
+.DS_Store
